@@ -1,0 +1,17 @@
+D:\PROYECTO_CS\prueba\bin\Debug\net6.0-windows\prueba.exe
+D:\PROYECTO_CS\prueba\bin\Debug\net6.0-windows\prueba.deps.json
+D:\PROYECTO_CS\prueba\bin\Debug\net6.0-windows\prueba.runtimeconfig.json
+D:\PROYECTO_CS\prueba\bin\Debug\net6.0-windows\prueba.dll
+D:\PROYECTO_CS\prueba\bin\Debug\net6.0-windows\prueba.pdb
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.csproj.AssemblyReference.cache
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.Form1.resources
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.csproj.GenerateResource.cache
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.AssemblyInfoInputs.cache
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.AssemblyInfo.cs
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.csproj.CoreCompileInputs.cache
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.dll
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\refint\prueba.dll
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.pdb
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\prueba.genruntimeconfig.cache
+D:\PROYECTO_CS\prueba\obj\Debug\net6.0-windows\ref\prueba.dll

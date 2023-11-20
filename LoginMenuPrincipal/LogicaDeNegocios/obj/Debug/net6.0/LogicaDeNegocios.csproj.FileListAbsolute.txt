@@ -1,0 +1,17 @@
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\bin\Debug\net6.0\LogicaDeNegocios.deps.json
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\bin\Debug\net6.0\LogicaDeNegocios.dll
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\bin\Debug\net6.0\LogicaDeNegocios.pdb
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\bin\Debug\net6.0\AccesoDatos.dll
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\bin\Debug\net6.0\AccesoDatos.pdb
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\LogicaDeNegocios.csproj.AssemblyReference.cache
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\LogicaDeNegocios.AssemblyInfoInputs.cache
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\LogicaDeNegocios.AssemblyInfo.cs
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\LogicaDeNegocios.csproj.CoreCompileInputs.cache
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\LogicaDeNegocios.csproj.CopyComplete
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\LogicaDeNegocios.dll
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\refint\LogicaDeNegocios.dll
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\LogicaDeNegocios.pdb
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\obj\Debug\net6.0\ref\LogicaDeNegocios.dll
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\bin\Debug\net6.0\Comun.dll
+D:\PROYECTO_CS\LoginMenuPrincipal\LogicaDeNegocios\bin\Debug\net6.0\Comun.pdb

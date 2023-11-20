@@ -1,0 +1,17 @@
+D:\PROYECTO_CS\CalculadoraBasica\bin\Debug\net6.0-windows\CalculadoraBasica.exe
+D:\PROYECTO_CS\CalculadoraBasica\bin\Debug\net6.0-windows\CalculadoraBasica.deps.json
+D:\PROYECTO_CS\CalculadoraBasica\bin\Debug\net6.0-windows\CalculadoraBasica.runtimeconfig.json
+D:\PROYECTO_CS\CalculadoraBasica\bin\Debug\net6.0-windows\CalculadoraBasica.dll
+D:\PROYECTO_CS\CalculadoraBasica\bin\Debug\net6.0-windows\CalculadoraBasica.pdb
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.csproj.AssemblyReference.cache
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.Form1.resources
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.csproj.GenerateResource.cache
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.AssemblyInfoInputs.cache
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.AssemblyInfo.cs
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.csproj.CoreCompileInputs.cache
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.dll
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\refint\CalculadoraBasica.dll
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.pdb
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\CalculadoraBasica.genruntimeconfig.cache
+D:\PROYECTO_CS\CalculadoraBasica\obj\Debug\net6.0-windows\ref\CalculadoraBasica.dll
